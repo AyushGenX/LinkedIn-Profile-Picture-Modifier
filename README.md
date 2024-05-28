@@ -51,7 +51,7 @@ Watch the video: [YouTube Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_H
 ### Screenshots
 
 [![Screenshot 1](https://github.com/AyushGenX/LinkedIn-Profile-Picture-Modifier/blob/main/Screenshot%202024-05-28%20061020.png)]
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](https://github.com/AyushGenX/LinkedIn-Profile-Picture-Modifier/blob/main/Screenshot%202024-05-28%20061517.png)
 <!-- Add more screenshots as needed -->
 
 ## Submission
