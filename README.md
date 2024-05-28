@@ -66,7 +66,7 @@ Please find the following materials for submission:
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](https://github.com/AyushGenX/LinkedIn-Profile-Picture-Modifier/blob/main/Screenshot%202024-05-28%20061452.png)
 <!-- Add more screenshots as needed -->
 
 ## Submission
