@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Profile Picture Modifier",
+  "version": "1.0",
+  "description": "Changes all LinkedIn profile pictures in posts to a specified image.",
+  "permissions": [
+    "activeTab",
+    "declarativeContent",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/feed/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["images/new-profile-pic.jpg"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
+}
