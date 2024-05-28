@@ -20,7 +20,7 @@ Once the extension is installed, follow these steps to use it:
 
 ### Video Demonstration
 
-Watch the video: [YouTube Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+Watch the video: [YouTube Video](https://github.com/AyushGenX/LinkedIn-Profile-Picture-Modifier/blob/main/WhatsApp%20Video%202024-05-28%20at%2006.47.25_3c26a31a.mp4)
 
 ### Screenshots
 
