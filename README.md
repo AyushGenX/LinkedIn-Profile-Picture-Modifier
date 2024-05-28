@@ -34,13 +34,6 @@ To install the extension, follow these steps:
 2. Enable "Developer mode" in the top right corner.
 3. Click on "Load unpacked" and select the directory where you cloned/downloaded the repository.
 
-## Usage
-
-Once the extension is installed, follow these steps to use it:
-
-1. Open LinkedIn in your Chrome browser.
-2. Navigate to the homepage ([https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)).
-3. The extension will automatically modify profile pictures on the homepage to the specified image.
 
 ## Demonstration
 
