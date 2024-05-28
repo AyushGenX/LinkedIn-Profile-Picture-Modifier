@@ -24,7 +24,7 @@ Watch the video: [YouTube Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_H
 
 ### Screenshots
 
-![Screenshot 1](/# LinkedIn Profile Picture Modifier
+![Screenshot 1](https://github.com/AyushGenX/LinkedIn-Profile-Picture-Modifier/blob/main/Screenshot%202024-05-28%20061020.png)] # LinkedIn Profile Picture Modifier
 
 ## Installation
 
